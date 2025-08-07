@@ -1,0 +1,53 @@
+# Alacritty configuration in TOML format
+
+# Font configuration
+[font]
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+
+size = 11.0
+
+
+# Window settings
+[window]
+opacity = 0.8 # 1.0 is opaque, 0.0 is transparent
+# Add padding around the terminal content
+padding = { x = 15, y = 10 }
+
+# Cursor style
+[cursor]
+style = { shape = "Block", blinking = "On" }
+
+# Color scheme (this is a basic Dracula theme)
+[colors]
+[colors.primary]
+background = "0x0d1117"
+foreground ='0xc9d1d9'
+
+# Cursor colors
+#
+# These will only be used when the `custom_cursor_colors` field is set to `true`.
+[colors.cursor]
+text = "#0d1117"
+cursor = "#c9d1d9"
+
+# Normal colors
+[colors.normal]
+black = "#484f58"
+red = "#ec8e2c"
+green = "#58a6ff"
+yellow = "#d29922"
+blue = "#58a6ff"
+magenta = "#bc8cff"
+cyan = "#39c5cf"
+white = "#b1bac4"
+
+# Bright colors
+[colors.bright]
+black = "#6e7681"
+red = "#fdac54"
+green = "#79c0ff"
+yellow = "#e3b341"
+blue = "#79c0ff"
+magenta = "#bc8cff"
+cyan = "#39c5cf"
+white = "#b1bac4"
