@@ -1,6 +1,0 @@
-**/credentials
-**/tokens
-**/*.log
-
-**/__pycache__/
-**/*.pyc
