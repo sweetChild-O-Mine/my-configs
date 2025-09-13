@@ -1,8 +1,8 @@
-# My i3 + Polybar Rice 🚀
+# My i3 + Polybar Rice :)
 
 Beautiful, automated i3 window manager setup with dynamic theming.
 
-## Features ✨
+## Features (they say...)
 
 - **Auto-changing wallpapers** every 10 minutes
 - **Dynamic color themes** extracted from wallpapers
