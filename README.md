@@ -11,10 +11,7 @@ Beautiful, automated i3 window manager setup with dynamic theming.
 - **Rofi integration** with matching themes
 - **20+ color schemes** built-in
 
-## Screenshots
 
-![Screenshot 1](screenshots/desktop1.png)
-![Screenshot 2](screenshots/desktop2.png)
 
 ## Installation
 
